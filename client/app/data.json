@@ -1,0 +1,17 @@
+[
+  {
+    "survey_name": "Winter Survey",
+    "description": "General Winter Petrol Survey",
+    "regDate": "2016-01-09T14:48:34-08:00",
+    "survey_type": "Mobile",
+    "scheduled_time": 12
+  },
+  {
+    "survey_name": "Special Survey",
+    "description": "YorkTown Survey",
+    "regDate": "2016-01-09T14:48:34-08:00",
+    "survey_type": "Mobile",
+    "scheduled_time": 6
+  }
+  
+]
